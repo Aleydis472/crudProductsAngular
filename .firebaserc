@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "crudproductosangular-60c61": {
+      "hosting": {
+        "crudProductos": [
+          "crudproductosangular-60c61"
+        ]
+      }
+    }
+  }
+}

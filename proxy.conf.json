@@ -1,0 +1,8 @@
+{
+    "/posts": {
+      "target": "https://restcountries.eu/rest/v2/all",
+      "secure": true,
+      "logLevel": "debug"
+     
+    }
+  }

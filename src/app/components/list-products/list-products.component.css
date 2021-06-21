@@ -1,0 +1,55 @@
+.list{
+    
+    background-color: white;
+    width: 90%;
+    margin: 0 auto ;
+    border-radius: 5px;
+    -webkit-box-shadow:0px 1px 1px #000000;
+    -moz-box-shadow:0px 1px 1px #000000;
+    box-shadow: 4px 14px 40px -11px rgba(0,0,0,0.95);
+    margin-bottom: 40px;
+} 
+
+title{
+    position: absolute;
+    top: 20px !important;
+}
+
+h3{
+    color: #5C636A;
+    font-weight: bold;
+}
+
+.agg{ 
+    color: #fff;
+	background-color: #8CBFDC;
+    border: 2px solid #85b9d6;
+}
+
+input{
+    margin-left: -12px;
+    width: 50%;
+}
+
+i{
+    cursor: pointer;
+    
+}
+
+h5{ 
+    margin-top: 5px;
+}
+
+th{
+    font-size: small;
+} 
+
+
+@media screen and (min-width: 280px) and (max-width: 1185px)  {
+    .tabla {
+        width:100%;
+       
+    }
+    
+}
+

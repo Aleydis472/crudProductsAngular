@@ -1,0 +1,17 @@
+
+.card{
+    border-radius: 10px;
+    -webkit-box-shadow:0px 1px 1px #000000;
+    -moz-box-shadow:0px 1px 1px #000000;
+    box-shadow: 4px 14px 40px -11px rgba(0,0,0,0.95);
+    margin-bottom: 40px;
+}
+
+h3{
+    color: #5C636A;
+    font-weight: bold;
+}
+.agg{
+    background-color: #8CBFDC;
+    color: white;
+} 
